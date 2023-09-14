@@ -38,4 +38,12 @@ $rogstrixg15 = new Laptop();
 $rogstrixg15->setbrand('ASUS');
 $rogstrixg15->setmodel('G15 G513QR-HF343W');
 $rogstrixg15->setprice('101,195.00');
+
+
+$acerPred = new Laptop();
+$acerPred->setbrand('ACER');
+$acerPred->setmodel('PREDATOR 15"');
+$acerPred->setprice('99,999.00');
+
+
 ?>
