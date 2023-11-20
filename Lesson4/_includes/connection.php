@@ -3,7 +3,7 @@
 class Connection
 {
 
-	private $server = "mysql:host=localhost;dbname=studentdb";
+	private $server = "mysql:host=localhost;dbname=studentsdb";
 	private $username = "root";
 	private $password = "";
 
